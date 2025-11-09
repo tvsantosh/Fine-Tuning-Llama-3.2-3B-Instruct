@@ -109,3 +109,7 @@ The process optimizes the model to predict contextually rich, step-wise answers 
 ✅ It relies on cross-entropy minimization and gradient-based optimization.
 ✅ Quantization + mixed precision drastically reduce hardware requirements.
 ✅ Unsloth + TRL make LLM fine-tuning accessible on Colab-scale GPUs.
+
+
+
+this is my colab Notebook:https://colab.research.google.com/drive/1pUWXfCR_27xRjOwhC251xPEwoevvmdQZ
